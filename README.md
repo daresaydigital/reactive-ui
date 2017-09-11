@@ -1,2 +1,2 @@
 # reactive-ui
-An example of building Functional Reactive UI for Android
+An example how to build Functional Reactive UI for Android
